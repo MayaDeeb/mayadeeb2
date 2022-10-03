@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/sitting"
+        android:id="@+id/sitting_menu"/>
+
+    <item android:title="@string/About"
+        android:id="@+id/About_menu"/>
+
+    <item android:title="@string/Home"
+        android:id="@+id/Home_menu"/>
+
+    <item android:title="@string/LogOut"
+        android:id="@+id/LogOut_menu"/>
+</menu>
